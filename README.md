@@ -55,12 +55,12 @@ All experiments are implemented using Python and executed in a Jupyter Notebook.
 ---
 
 ## Project Structure
-
+```
 ├── analysis.ipynb # Jupyter Notebook containing all tasks
 ├── README.md # Project overview and instructions
 ├── requirements.txt # Python dependencies
 └── plots/ # Generated plots (optional if embedded in notebook)
-
+```
 
 ---
 
